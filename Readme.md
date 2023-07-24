@@ -5,7 +5,7 @@ Esse projeto foi um estudo para criar uma tela de login com design moderno. O we
 <br>
 <p>Além disso, foi utilizado apenas HTML e CSS</p>
 <br>
-Acesse o site por aqui: 
+Acesse o site por aqui: https://kauandugi.github.io/Tela-de-login-minimalista/
 <br>
 <br>
 <br>
